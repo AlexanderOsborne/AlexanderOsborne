@@ -1,8 +1,8 @@
 ### Thanks for stopping by, I'm Alex(He/Him)
 
-I'm a passoniate software developer with a start up background. I love building great products and working with even better teams. Lets chat about what you're working on.
+I'm a passoniate software developer with a start up background. I love building great products and working with better teams. Lets chat about what you're working on.
 
-If I'm not coding I'm probably out rock climbing or skiing. I find time outside is key to squashing bugs.
+If I'm not coding I'm probably out rock climbing, skiing or in the kitchen practicing analog creativity.
 
 ## Connect with me:
 [![LinkedIn](https://user-images.githubusercontent.com/64919819/113643549-cbb9f580-963f-11eb-8311-90b22051f631.png)](https://www.linkedin.com/in/alex-osborne/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
