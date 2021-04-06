@@ -1,6 +1,6 @@
-### Thanks for stopping by, I'm Alex
+### Thanks for stopping by, I'm Alex(He/Him)
 
-I'm a passoniate software developer with a start up background building great products and working with even better teams. I've love to chat about what you're working on.
+I'm a passoniate software developer with a start up background. I love building great products and working with even better teams. Lets chat about what you're working on.
 
 If I'm not coding I'm probably out rock climbing or skiing. I find time outside is key to squashing bugs.
 
