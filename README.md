@@ -21,7 +21,6 @@ ___
 ![Rspec](https://user-images.githubusercontent.com/64919819/113648167-6965f280-9649-11eb-8794-0f1082ae8d1c.png)
 ![Git](https://user-images.githubusercontent.com/64919819/113648232-81d60d00-9649-11eb-8ea4-0ff5e399afb6.png)
 ![Github](https://user-images.githubusercontent.com/64919819/113648263-8ef2fc00-9649-11eb-92ee-e17ac79c0627.png)
-![Heroku](https://user-images.githubusercontent.com/64919819/113648343-b77af600-9649-11eb-9854-12616bfe50fa.png)
 ![TravisCI](https://user-images.githubusercontent.com/64919819/113648431-d4afc480-9649-11eb-9b2d-b1f363887438.png)
 ![Heroku](https://user-images.githubusercontent.com/64919819/113648465-e1ccb380-9649-11eb-904d-3e23e9f7bdb1.png)
 
