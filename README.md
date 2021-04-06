@@ -1,9 +1,8 @@
 ### Thanks for stopping by, I'm Alex
 
-I'm a passoniate software developer with a start up background building great products and working with even better teams. I've love to chat about what you're working on. 
+I'm a passoniate software developer with a start up background building great products and working with even better teams. I've love to chat about what you're working on.
 
-
-
+If I'm not coding I'm probably out rock climbing or skiing. I find time outside is key to squashing bugs.
 
 ## Connect with me:
 [![LinkedIn](https://user-images.githubusercontent.com/64919819/113643549-cbb9f580-963f-11eb-8311-90b22051f631.png)](https://www.linkedin.com/in/alex-osborne/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,7 +10,7 @@ I'm a passoniate software developer with a start up background building great pr
 
 ___
 ## GitHub Stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AlexanderOsborne&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AlexanderOsborne&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsborne&langs_count=5&theme=tokyonight)]()
 
 <!--
