@@ -24,6 +24,7 @@ ___
 ![TravisCI](https://user-images.githubusercontent.com/64919819/113648431-d4afc480-9649-11eb-9b2d-b1f363887438.png)
 ![Heroku](https://user-images.githubusercontent.com/64919819/113648465-e1ccb380-9649-11eb-904d-3e23e9f7bdb1.png)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
 
 
 
@@ -34,7 +35,7 @@ ___
 ![Node](https://user-images.githubusercontent.com/64919819/113648946-c0b89280-964a-11eb-90a7-802b5282805c.png)
 ![Express](https://user-images.githubusercontent.com/64919819/113648975-ce6e1800-964a-11eb-8aee-e72bdf0059bf.png)
 ![CircleCI](https://user-images.githubusercontent.com/64919819/113648644-29ebd600-964a-11eb-91a3-1e50b7c415aa.png)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white")
+
 
 ## Practies & Process:
 ![OOP](https://user-images.githubusercontent.com/64919819/113648808-77684300-964a-11eb-8575-05aeaa946a6f.png)
