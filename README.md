@@ -43,10 +43,6 @@ ___
 ![REST](https://user-images.githubusercontent.com/64919819/113648856-8ea73080-964a-11eb-8e85-6f580a54eaca.png)
 ___
 
-## GitHub Stats:
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AlexanderOsborne&count_private=true&theme=tokyonight&showicons=true)]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOsborne&langs_count=5&theme=tokyonight)]()
-
 <!--
 **AlexanderOsborne/AlexanderOsborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
